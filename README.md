@@ -1,2 +1,2 @@
 # PontoiDTechnology.com
-Projeto em Asp Net Core
+Criarndo Projeto em Asp Net Core versão 2.1.801
